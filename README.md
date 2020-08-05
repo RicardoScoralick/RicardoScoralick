@@ -1,16 +1,16 @@
-### Hi there 👋
+<img width="auto" src="https://raw.githubusercontent.com/tgmarinho/tgmarinho/master/banner.png">
 
-<!--
-**RicardoScoralick/RicardoScoralick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Ricardo Scoralick
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Olá pessoal 👋
+Sou apaixonado por técnologia e espero brevemente me colocar no mercado para poder resolver problemas através da programação.
+Sou graduando em Analise e Desenvolvimente de Sistemas :computer:
+
+ <br/> :purple_heart: &nbsp; Estou focado nos estudos em desenvolvimente web.
+ <br/> :blush: &nbsp; Posso te ajudar com CSS, HTML e JavaScript, puros.
+ <br/> :computer: &nbsp; Procuro colaborar brevemente com: ReactJS, Node.js, React Native & Typescrit.
+ <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, esportes em geral, apaixonado por futebol e Formula 1 e seriados no Netflix.
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge]](https://www.linkedin.com/in/ricardo-scoralick-7b85321b0/) 
+| 
+[![Gmail Badge]](mailto:ricardoscoralick2@gmail.com)
